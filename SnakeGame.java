@@ -1,3 +1,7 @@
+//M.Sc in AI@UOM - Programing for AI
+//Assignment - Snake & Ladder Game
+//Name : Bandara A.M.S.E
+
 import java.awt.Color;
 import java.awt.Font;
 import java.awt.Graphics;
